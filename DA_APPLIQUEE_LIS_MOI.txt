@@ -1,4 +1,0 @@
-Version corrigée : DA Vision Skool / ADN appliquée.
-Contenu pédagogique, modules, leçons et quiz conservés.
-Pour vérifier : npm install puis npm run dev.
-Pour Netlify : build command npm run build, publish directory dist.
